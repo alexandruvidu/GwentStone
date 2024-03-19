@@ -4,7 +4,7 @@
 GwentStone is a card game which takes inspiration from Hearthstone and Gwent.
 
 
-## Run locally (tests)
+## Run tests
 
 Clone the project
 
@@ -25,5 +25,5 @@ Import project in IntelliJ IDEA or any other Java IDE and run src/Main.java.
 
 ## Documentation
 
-[Actions](https://github.com/alexandruvidu/GwentStone/blob/master/Actions.md), [Cards](https://github.com/alexandruvidu/GwentStone/blob/master/Cards.md)
+[Commands](https://github.com/alexandruvidu/GwentStone/blob/master/Commands.md), [Cards](https://github.com/alexandruvidu/GwentStone/blob/master/Cards.md)
 
